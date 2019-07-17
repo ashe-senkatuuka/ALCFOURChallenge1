@@ -5,4 +5,12 @@
     <string name="my_profile">MY PROFILE</string>
     <string name="notification_error_ssl_cert_invalid">SSL Error. Give Permission.</string>
     <string name="title_activity_my_profile">MyProfile</string>
+    <string name="my_name">Ashe Senkatuuka</string>
+    <string name="text_Track">Track: Android</string>
+    <string name="text_country">Country: Uganda</string>
+    <string name="text_email">Email: ashemukisa@gmail.com</string>
+    <string name="text_phone">Phone Number: 256702148871</string>
+    <string name="text_slack">Slack Username: \@Ashe</string>
+    <string name="pic_profile">Profile pic showing my face</string>
+    <string name="divider">Separate Header and body section</string>
 </resources>
